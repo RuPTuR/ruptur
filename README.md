@@ -1,4 +1,5 @@
 ### Bienvenido a mi github 🛪
+Aquí subo las scripts que voy haciendo, quien quiera puede mirarlas ya que son públicas y no me importa que se reutilicen
 
 Estos son los lenguajes en los que me manejo:
 - Python
