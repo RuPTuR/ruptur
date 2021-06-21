@@ -1,4 +1,4 @@
-### Bievenido a mi github wave
+### Bievenido a mi github 🛪
 <!--
 **RuPTuR/ruptur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
