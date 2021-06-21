@@ -1,4 +1,11 @@
 ### Bienvenido a mi github 🛪
+
+Estos son los lenguajes en los que me manejo:
+- Python
+- JavaScript
+- C#
+- Perl
+- Java
 <!--
 **RuPTuR/ruptur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
