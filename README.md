@@ -2,7 +2,7 @@
 
 Aquí subo las scripts que voy haciendo, quien quiera puede mirarlas ya que son públicas y no me importa que se reutilicen
 
-*Lenguajes de programación:*
+**Lenguajes de programación:**
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
