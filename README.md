@@ -1,6 +1,6 @@
 ### Ruptur // Github Personal <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-Aquí subo las scripts que voy haciendo, quien quiera puede mirarlas ya que son públicas y no me importa que se reutilicen
+Aquí subo las scripts que voy haciendo, quien quiera puede mirarlas ya que son públicas y no me importa que se reutilicen.
 
 **Sistema Operativo:**
 <p align="left">
